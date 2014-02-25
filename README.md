@@ -1,4 +1,4 @@
 columner
 ========
 
-Create columns from child elements to create a masonry layout.
+Create columns from child elements to produce a masonry layout.
